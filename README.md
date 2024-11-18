@@ -54,3 +54,17 @@ This guide aims to provide insight into tools that claim to grant access to priv
 
 ### **Disclaimer**  
 This content is for informational purposes only. We do not endorse the use of any tools or methods that violate privacy laws or Instagram's terms of service.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Private Instagram Viewer",
+  "url": "https://hnxnn7124576.github.io/",
+  "description": "This guide introduces the Top 10 Instagram Private Account Viewers that promise to grant access to otherwise restricted accounts. With careful analysis, we’ll explore each tool’s features, ease of use, and considerations regarding privacy concerns.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Private Instagram Viewer"
+  }
+}
+</script>
